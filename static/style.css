@@ -1,0 +1,73 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+  margin: 5px;
+  width: 250px;
+  height: 18px;
+  text-transform: capitalize;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+  text-transform: capitalize;
+}
+
+/*button {
+  margin-top: 20px;
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 5px;
+}*/
+
+/* #btn-add,
+#btn-edit,
+#btn-delete,
+#btn-add-user {
+  width: 70px;
+  height: 30px;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 5px;
+} */
+#btn-add-user {
+  width: 80px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left: 15px;
+}
+.btn {
+  width: 70px;
+  height: 30px;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 5px;
+  background-color: #4caf50;
+}
+
+#btn-delete {
+  background-color: red;
+}
+
+#btn-add {
+  margin-left: 200px;
+}
+
+#btn-cancel {
+  margin-left: 150px;
+}
+
+#btn-cancel,
+#btn-save {
+  margin-right: 10px;
+  margin-top: 20px;
+}
